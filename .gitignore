@@ -1,0 +1,5 @@
+.idea
+lib
+mochawesome-report
+node_modules
+processed.json
